@@ -68,6 +68,9 @@ https://github.com/wolethomas78/HR_analysis/blob/main/NotDue_Promotion.png
 
 
 ### KPI Insight Summary
+
+https://github.com/wolethomas78/HR_analysis/blob/8a05e6d467b37d017d2d24f6c6c265209527ae42/NotDue_Promotion.png
+
 **Chart Referenced:**  
 **Employees Not Due for Promotion (KPI Card)**
 
