@@ -63,6 +63,10 @@ The dashboard includes several key visualizations:
 ---
 
 ## Key Insights & Recommendations
+
+<img width="98" height="47" alt="NotDue_Promotion" src="https://github.com/user-attachments/assets/c6a294e0-e021-4ba9-8e9e-fa9f671e92d9" />
+
+
 ### KPI Insight Summary
 **Chart Referenced:**  
 **Employees Not Due for Promotion (KPI Card)**
@@ -75,7 +79,8 @@ A significant portion of the workforce has either been **recently promoted** or 
 
 **Recommendation:**  
 Monitor this group's progression to ensure timely readiness for future promotions. Implement **career development plans** (e.g., training, mentorship, rotation programs) to prepare them for advancement. Ensure **clear communication** of promotion pathways and use supporting metrics (e.g., attrition risk) to anticipate engagement issues.
-<img width="98" height="47" alt="NotDue_Promotion" src="https://github.com/user-attachments/assets/5882b825-ad82-4e48-9fd4-976811b75658" />
+
+
 
 
 
