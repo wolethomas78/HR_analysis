@@ -115,3 +115,28 @@ The data shows a **healthy spread of employee tenure**, with a significant numbe
 - Engage the **1-year employees** with onboarding support, career path planning, and retention initiatives to reduce early attrition.
 - Monitor the **3-year cohort** for **promotion readiness** or potential career stagnation; they are likely to be at a **critical decision point** in their employment lifecycle.
 
+---
+
+## 📌 KPI Insight Summary
+
+---
+
+![image alter](https://github.com/wolethomas78/HR_analysis/blob/600bdad8fd1254448d38e80f1153e69c242bd835/emplbyjoblevel.png)
+**Chart Referenced:**  
+**Total Employees by Job Level (Pie Chart or Stacked Bar Chart)**
+
+**Observation:**  
+- **Job Level 1:** 314 employees  
+- **Job Level 2:** 361 employees  
+- **Job Level 3:** 131 employees  
+- **Job Level 4:** 66 employees  
+- **Job Level 5:** 38 employees
+
+**Interpretation:**  
+The majority of employees are concentrated in **Job Levels 1 and 2** (entry and early-mid level roles), making up over 75% of the workforce. This reflects a **pyramid-shaped organizational structure**, with fewer employees in higher-level (senior/leadership) positions. The sharp drop from Level 3 upward may indicate **limited advancement opportunities** or a highly selective promotion process.
+
+**Recommendation:**  
+- Develop **career progression paths** for employees in Levels 1–2 to encourage upward mobility and long-term retention.
+- Review whether the **promotion criteria** from Level 2 to 3 and above are transparent and accessible.
+- For higher levels (4–5), invest in **leadership development programs** and **succession planning** to ensure readiness for critical roles.
+- Consider workforce planning to ensure the right balance between **operational staff and strategic leadership capacity**.
