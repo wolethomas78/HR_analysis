@@ -64,7 +64,7 @@ The dashboard includes several key visualizations:
 
 ## Key Insights & Recommendations
 
-<img width="98" height="47" alt="NotDue_Promotion" src="https://github.com/user-attachments/assets/c6a294e0-e021-4ba9-8e9e-fa9f671e92d9" />
+https://github.com/wolethomas78/HR_analysis/blob/main/NotDue_Promotion.png
 
 
 ### KPI Insight Summary
