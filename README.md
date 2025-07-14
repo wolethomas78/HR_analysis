@@ -67,6 +67,7 @@ The dashboard includes several key visualizations:
 ### KPI Insight Summary
 
 ![image alt](https://github.com/wolethomas78/HR_analysis/blob/8a05e6d467b37d017d2d24f6c6c265209527ae42/NotDue_Promotion.png)
+
 **Chart Referenced:**  
 **Employees Not Due for Promotion (KPI Card)**
 
@@ -81,6 +82,7 @@ Monitor this group's progression to ensure timely readiness for future promotion
 
 ---
 ![image alt](https://github.com/wolethomas78/HR_analysis/blob/f9ed6b17c971d328682f066b1ec42fa313598a9e/promotion_due.png)  
+
 **Chart Referenced:**  
 **Employees Due for Promotion (KPI Card)**
 
@@ -94,11 +96,8 @@ This group represents employees likely ready for **career advancement**, and del
 Prioritize **performance evaluations** and consider this group for promotion or role enhancement. Incorporate them into **succession planning** and leadership development tracks. Ensure that promotion decisions are **equitable, data-driven**, and aligned with business needs.
 
 ---
-
-## 📌 KPI Insight Summary
-
----
 ![image alter](https://github.com/wolethomas78/HR_analysis/blob/bdcbe3c03d71004ecb94d893c007b6d364ac5f6e/empl_by_Serviceyear.png)
+
 **Chart Referenced:**  
 **Total Employees by Service Year (Bar Chart)**
 
@@ -117,11 +116,8 @@ The data shows a **healthy spread of employee tenure**, with a significant numbe
 
 ---
 
-## 📌 KPI Insight Summary
-
----
-
 ![image alter](https://github.com/wolethomas78/HR_analysis/blob/600bdad8fd1254448d38e80f1153e69c242bd835/emplbyjoblevel.png)
+
 **Chart Referenced:**  
 **Total Employees by Job Level (Column Chart)**
 
@@ -144,6 +140,7 @@ The majority of employees are concentrated in **Job Levels 1 and 2** (entry and 
 ---
 
 ![image alter](https://github.com/wolethomas78/HR_analysis/blob/627746b21f8460f989d1cf109e589cc76a4f398e/emplbygender.png)
+
 **Chart Referenced:**  
 **Gender Distribution (Pie Chart)**
 
