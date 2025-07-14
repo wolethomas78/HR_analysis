@@ -44,6 +44,18 @@ Project Overview
 - YearsInCurrentRole  
 - YearsSinceLastPromotion  
 - YearsWithCurrManager  
-          
-
 - **Audience:** HR managers, business analysts, and executives.
+
+---
+
+## Dashboard Highlights
+
+The dashboard includes several key visualizations:
+
+| Visualization | Description |
+|---------------|-------------|
+| Employees Due for Promotion (Card / KPI Metric) | Displays the total number of employees eligible for promotion based on time since last promotion. |
+| Employees Not Due for Promotion (Card / KPI Metric) | Shows employees recently promoted or not yet meeting the promotion threshold. |
+| Employees by Service Year (Bar Chart) | Groups employees based on years of service to identify tenure distribution across the organization. |
+| Employees by Job Level (Column Chart) | Visualizes the distribution of employees across job levels, highlighting workforce composition. |
+| Number of employee by Gender (Pie Chart) | Percentage of Male and Female workforce in the organization |
