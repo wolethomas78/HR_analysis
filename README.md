@@ -6,7 +6,7 @@ This repository features a dynamic and comprehensive Power BI dashboard designed
 
 Project Overview
 
-- **Goal:** Build an interactive Human Resource dashboard to track employees who are not due for promotion, total employee by service year, total employee by job level, and                 employees who are due for promotion.
+- **Goal:** Build an interactive Human Resource dashboard to track employees who are not due for promotion, total employee by service year, total employee by job level, percentage of female and male workforce in the organization and employees who are due for promotion.
 - **Tools Used:** Power BI for visualization.
 - **Data Source:** Simulated employee dataset including:
 - Age  
@@ -123,7 +123,7 @@ The data shows a **healthy spread of employee tenure**, with a significant numbe
 
 ![image alter](https://github.com/wolethomas78/HR_analysis/blob/600bdad8fd1254448d38e80f1153e69c242bd835/emplbyjoblevel.png)
 **Chart Referenced:**  
-**Total Employees by Job Level (Pie Chart or Stacked Bar Chart)**
+**Total Employees by Job Level (Column Chart)**
 
 **Observation:**  
 - **Job Level 1:** 314 employees  
@@ -140,3 +140,41 @@ The majority of employees are concentrated in **Job Levels 1 and 2** (entry and 
 - Review whether the **promotion criteria** from Level 2 to 3 and above are transparent and accessible.
 - For higher levels (4–5), invest in **leadership development programs** and **succession planning** to ensure readiness for critical roles.
 - Consider workforce planning to ensure the right balance between **operational staff and strategic leadership capacity**.
+
+---
+
+![image alter](https://github.com/wolethomas78/HR_analysis/blob/627746b21f8460f989d1cf109e589cc76a4f398e/emplbygender.png)
+**Chart Referenced:**  
+**Gender Distribution (Pie Chart)**
+
+**Observation:**  
+- **Male:** 60.88%  
+- **Female:** 39.12%
+
+**Interpretation:**  
+The organization has a **male-dominant workforce**, with males making up over **60%** of total employees. This could reflect **industry norms**, historical hiring trends, or a potential **gender imbalance** in certain roles or departments. The gap suggests room for improvement in **gender diversity and inclusion**.
+
+**Recommendation:**  
+- Evaluate **recruitment practices** to ensure they support diversity and attract more qualified female candidates.
+- Review **gender representation by department and job level** to detect structural or pipeline issues.
+- Promote **inclusive policies**, such as flexible work arrangements, mentoring programs for women, and unbiased performance reviews.
+- Set **diversity goals** and regularly track progress to improve representation and equity.
+
+---
+
+## Methodology
+- Calculate total employees from Eployee_number.
+- Built the dashboard in Power BI.
+- 
+---
+## Contact Me
+
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/oluwolefagbemi) or email at wolethomas78@gmail.com for questions or collaborations!
+
+---
+## Why This Project Matters
+
+This dashboard demonstrates how data-driven insights can enhance workforce planning, employee development, and organizational efficiency. It showcases skills in HR analytics, KPI tracking, and visualization — all critical for driving informed decisions in talent management, succession planning, and employee retention strategies.
+
+
+
