@@ -159,6 +159,10 @@ The organization has a **male-dominant workforce**, with males making up over **
 
 ---
 
+---
+![image alter](https://github.com/wolethomas78/HR_analysis/blob/057bf806b70047d498174f6eb2edf4d518f02694/hr_dashboard.png)
+
+
 ## Methodology
 - Calculate total employees from Eployee_number.
 - Built the dashboard in Power BI.
