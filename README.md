@@ -64,11 +64,17 @@ The dashboard includes several key visualizations:
 
 ## Key Insights & Recommendations
 ### KPI Insight Summary
-**  Chart Referenced:** Employees Not Due for Promotion (KPI Card)
-**  Observation:** There are 870 employees currently not due for promotion based on the promotion eligibility criteria.
-**  Interpretation:** A significant portion of the workforce has either been recently promoted or does not yet meet the threshold for promotion.
-   This may indicate a stable workforce or potentially a development lag for newer or early-career employees.
-** Recommendation:** Monitor this group's progression to ensure timely readiness for future promotions.
-   Implement career development plans (e.g., training, mentorship, rotation programs) to prepare them for advancement.
+**Chart Referenced:**  
+**Employees Not Due for Promotion (KPI Card)**
+
+**Observation:**  
+There are **870 employees** currently **not due for promotion** based on the promotion eligibility criteria.
+
+**Interpretation:**  
+A significant portion of the workforce has either been **recently promoted** or **does not yet meet** the threshold for promotion. This may indicate a **stable workforce** or potentially a **development lag** for newer or early-career employees.
+
+**Recommendation:**  
+Monitor this group's progression to ensure timely readiness for future promotions. Implement **career development plans** (e.g., training, mentorship, rotation programs) to prepare them for advancement. Ensure **clear communication** of promotion pathways and use supporting metrics (e.g., attrition risk) to anticipate engagement issues.
+
 
 
