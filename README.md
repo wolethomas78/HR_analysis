@@ -59,3 +59,16 @@ The dashboard includes several key visualizations:
 | Employees by Service Year (Bar Chart) | Groups employees based on years of service to identify tenure distribution across the organization. |
 | Employees by Job Level (Column Chart) | Visualizes the distribution of employees across job levels, highlighting workforce composition. |
 | Number of employee by Gender (Pie Chart) | Percentage of Male and Female workforce in the organization |
+
+---
+
+## Key Insights & Recommendations
+### KPI Insight Summary
+**  Chart Referenced:** Employees Not Due for Promotion (KPI Card)
+**  Observation:** There are 870 employees currently not due for promotion based on the promotion eligibility criteria.
+**  Interpretation:** A significant portion of the workforce has either been recently promoted or does not yet meet the threshold for promotion.
+   This may indicate a stable workforce or potentially a development lag for newer or early-career employees.
+** Recommendation:** Monitor this group's progression to ensure timely readiness for future promotions.
+   Implement career development plans (e.g., training, mentorship, rotation programs) to prepare them for advancement.
+
+
