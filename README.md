@@ -80,7 +80,20 @@ A significant portion of the workforce has either been **recently promoted** or 
 **Recommendation:**  
 Monitor this group's progression to ensure timely readiness for future promotions. Implement **career development plans** (e.g., training, mentorship, rotation programs) to prepare them for advancement. Ensure **clear communication** of promotion pathways and use supporting metrics (e.g., attrition risk) to anticipate engagement issues.
 
+---
+![image alt](https://github.com/wolethomas78/HR_analysis/blob/f9ed6b17c971d328682f066b1ec42fa313598a9e/promotion_due.png)  
+**Employees Due for Promotion (KPI Card)**
+**Chart Referenced:**  
+**Employees Due for Promotion (KPI Card)**
 
+**Observation:**  
+There are **40 employees** who are **currently due for promotion** based on tenure and time since last promotion.
+
+**Interpretation:**  
+This group represents employees likely ready for **career advancement**, and delaying promotion may result in **reduced motivation or increased attrition risk**. It may also signal areas where internal mobility or leadership pipeline planning is needed.
+
+**Recommendation:**  
+Prioritize **performance evaluations** and consider this group for promotion or role enhancement. Incorporate them into **succession planning** and leadership development tracks. Ensure that promotion decisions are **equitable, data-driven**, and aligned with business needs.
 
 
 
