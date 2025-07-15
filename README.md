@@ -168,7 +168,7 @@ The organization has a **male-dominant workforce**, with males making up over **
 ---
 ## Contact Me
 
-Feel free to reach out via [LinkedIn](www.linkedin.com/in/oluwolefagbemi) or email at wolethomas78@gmail.com for questions or collaborations!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/oluwolefagbemi) or email at wolethomas78@gmail.com for questions or collaborations!
 
 ---
 ## Why This Project Matters
