@@ -164,7 +164,10 @@ The organization has a **male-dominant workforce**, with males making up over **
 ## Methodology
 - Calculate total employees from Eployee_number.
 - Built the dashboard in Power BI.
-- 
+---
+How to Use This Repo
+•	Browse the [Sales_Dashboard](https://app.powerbi.com/groups/me/reports/73dfdb73-d1b2-4b19-8fac-42afd5de90d1/a62a03263c4c422860d9?experience=power-bi) Power BI file to explore the full dashboard.
+ 
 ---
 ## Contact Me
 
